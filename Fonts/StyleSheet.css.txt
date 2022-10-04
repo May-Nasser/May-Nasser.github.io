@@ -1,7 +1,7 @@
 @font-face {
   font-family: 'SIDF Font';
   src:
-    url('https://tamiltechguru.github.io/Tamil/Malar.ttf') format('truetype');
+    url('https://May-Nasser.github.io/Fonts/Malar.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
